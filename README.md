@@ -9,11 +9,11 @@ Greetings and welcome to my GitHub space. I'm a biotechnology student with a kee
 
 - 📚 Biotechnology Student
 - 💻 JavaScript and upcoming TypeScript enthusiast
-- 🌱 Exploring the synergy of biology and code
+  
 
 ## 🚀 Current Focus
 
-I'm on a journey to master JavaScript and set sail into the seas of TypeScript. Expect repositories filled with learning projects, experiments, and the occasional "Eureka!" moment as I bridge the gap between biotechnology and the fascinating world of programming.
+I'm on a journey to master JavaScript and set sail into the seas of TypeScript.
 
 ## 🔬 What's in My Lab?
 
@@ -26,6 +26,6 @@ I'm on a journey to master JavaScript and set sail into the seas of TypeScript. 
 - 👩‍💻 [LinkedIn](https://www.linkedin.com/in/samreen-asif-a082422b7/)
 - 📖 Open to collaboration and learning opportunities
 
-Feel free to explore my coding journey, share your insights, or join me in unraveling the wonders of code in the context of biotechnology. Let's blend science and tech seamlessly! 🧪💻
+Feel free to explore my coding journey, share your insights, or join me in unraveling the wonders of code.
 
 
