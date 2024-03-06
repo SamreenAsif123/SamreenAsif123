@@ -2,7 +2,8 @@
 
 # 👋 Hello, I'm Samreen Asif!
 
-Greetings from the intersection of biotechnology and code! I'm a passionate biotechnology student with a newfound love for coding, especially in the realms of JavaScript and soon-to-be TypeScript. Here on my GitHub, you'll witness the evolution of a biotech enthusiast delving into the world of tech.
+Greetings and welcome to my GitHub space. I'm a biotechnology student with a keen interest in learning JavaScript and, soon, TypeScript. This platform serves as a documentation of my journey into the world of coding.
+
 
 ## 🧬 Biotech by Day, Code Explorer by Night
 
